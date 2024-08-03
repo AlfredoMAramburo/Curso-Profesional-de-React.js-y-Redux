@@ -29,4 +29,3 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con [AlfredoMAramburo](https://github.com/AlfredoMAramburo).
 
-¡Gracias por tu interés en este proyecto!
