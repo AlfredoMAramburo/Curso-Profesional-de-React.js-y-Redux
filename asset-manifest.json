@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Curso-Profesional-de-React.js-y-Redux/static/css/main.66480647.css",
+    "main.js": "/Curso-Profesional-de-React.js-y-Redux/static/js/main.fdc12ee2.js",
+    "static/media/logo.svg": "/Curso-Profesional-de-React.js-y-Redux/static/media/logo.0905522d6d18ceaafa60a31e87c99e88.svg",
+    "index.html": "/Curso-Profesional-de-React.js-y-Redux/index.html",
+    "main.66480647.css.map": "/Curso-Profesional-de-React.js-y-Redux/static/css/main.66480647.css.map",
+    "main.fdc12ee2.js.map": "/Curso-Profesional-de-React.js-y-Redux/static/js/main.fdc12ee2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66480647.css",
+    "static/js/main.fdc12ee2.js"
+  ]
+}
