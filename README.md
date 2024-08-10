@@ -20,10 +20,6 @@ Este proyecto es parte de un curso profesional sobre React.js y Redux. La aplica
 
 Puedes ver el proyecto en el siguiente enlace: [Curso Profesional de React.js y Redux](https://alfredomaramburo.github.io/Curso-Profesional-de-React.js-y-Redux/)
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
 ## Contacto
 
 Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con [AlfredoMAramburo](https://github.com/AlfredoMAramburo).
